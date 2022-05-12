@@ -35,7 +35,7 @@ header .menu a:hover{
 }
 header .menu a{
     font-size:18px;
-    font-family: 'lato';
+    font-family:'lato';
     font-weight: 300;
     display: inline-block;
     padding:10px 0;
@@ -235,7 +235,7 @@ footer .contacto  input[type="submit"]:hover{
     height:200px;
     background: #000;
 }
-@media screen and (max-width:760px){
+@media screen and(max-width:760px){
     header .menu{
         justify-content: center;
     }
@@ -247,7 +247,7 @@ footer .contacto  input[type="submit"]:hover{
     }
 }
 
-@media screen and (max-width:630px){
+@media screen and(max-width:630px){
     header .contenido-header .titulo-header{
         font-size:80px;
     }
@@ -259,7 +259,7 @@ footer .contacto  input[type="submit"]:hover{
     }
 }
 
-@media screen and (max-width: 500px){
+@media screen and(max-width: 500px){
     header .contenido-header .titulo-header{
         font-size:40px;
     }
@@ -274,7 +274,7 @@ footer .contacto  input[type="submit"]:hover{
     }
 }
 
-@media screen and (max-width: 350px){
+@media screen and(max-width: 350px){
     main .quehacemos .contenido-cajas .tarjeta{
         width: 98%;
     }
